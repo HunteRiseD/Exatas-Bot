@@ -25,3 +25,8 @@
 6. Alterações nos Termos:
 
 	• Reservamo-nos o direito de modificar estes Termos a qualquer momento. Avisos sobre mudanças serão publicados no [canal oficial/servidor oficial do Bot].
+
+
+
+
+Atualizado pela última vez em 18 de Dezembro de 2024
