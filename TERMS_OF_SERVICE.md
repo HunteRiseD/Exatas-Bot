@@ -24,7 +24,7 @@
 
 6. Alterações nos Termos:
 
-	• Reservamo-nos o direito de modificar estes Termos a qualquer momento. Avisos sobre mudanças serão publicados no [canal oficial/servidor oficial do Bot].
+	• Reservamo-nos o direito de modificar estes Termos a qualquer momento. Avisos sobre mudanças serão publicados no [[Canal de Atualizações do Bot.]](https://github.com/HunteRiseD/Exatas-Bot/blob/main/Updates.md).
 
 
 
