@@ -48,5 +48,6 @@
 
   - Correções de pequenos bugs.
 
+---
 
 > Atualizado pela última vez em 16 de Janeiro de 2025
