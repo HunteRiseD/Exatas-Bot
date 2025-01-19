@@ -50,4 +50,4 @@
 
 ---
 
-> Atualizado pela última vez em 16 de Janeiro de 2025
+> Atualizado pela última vez em 16 de Janeiro de 2025.
