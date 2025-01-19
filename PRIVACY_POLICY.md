@@ -1,5 +1,5 @@
 # Política de Privacidade - Exatas Bot
-Última atualização: 19 de Janeiro de 2024
+Última atualização: 19 de Janeiro de 2025
 
 ---
 
@@ -241,6 +241,6 @@
 
 ---
 
-> Esta Política de Privacidade foi atualizada pela última vez em 19 de Janeiro de 2024
+> Esta Política de Privacidade foi atualizada pela última vez em 19 de Janeiro de 2025
 
 Exatas Bot
