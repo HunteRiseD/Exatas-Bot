@@ -154,7 +154,7 @@
 
 > Email: [luckas.fernandes14@gmail.com](mailto:luckas.fernandes14@gmail.com)
 
-> Discord: [hunterised.]
+> Discord: hunterised.
 
 
 ---
