@@ -1,5 +1,5 @@
 # Documentação Online - Exatas Bot
-Última atualização: 19 de Janeiro de 2025
+Última atualização: 20 de Janeiro de 2025
 
 ---
 
@@ -295,4 +295,4 @@
 
 ---
 
-> Esta documentação é atualizada regularmente. Última atualização: 19 de Janeiro de 2025
+> Esta documentação é atualizada regularmente. Última atualização: 20 de Janeiro de 2025
