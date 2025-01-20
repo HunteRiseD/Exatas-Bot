@@ -43,7 +43,19 @@
       
       > `e!createvoice` ou `/createvoice` - **Cria um canal de voz no servidor;**
       
-      > `e!deletevoice` ou `/deletevoice` - **Deleta um canal de voz no servidor.**
+      > `e!deletevoice` ou `/deletevoice` - **Deleta um canal de voz no servidor;**
+
+      > `e!addmodrole` ou `/addmodrole` - **Adiciona um cargo a lista de Cargos Moderadores do Servidor;**
+
+      > `e!removemodrole` ou `/removemodrole` - **Remove um cargo da lista de Cargos Moderadores do Servidor;**
+
+      > `e!listmodroles` ou `/listmodroles` - **Mostra a lista de Cargos Moderadores do Servidor;**
+
+      > `e!setlogsmute` ou `/setlogsmute` - **Define um canal para os Logs de Mutes;**
+
+      > `e!setlogskick` ou `/setlogskick` - **Define um canal para os Logs de Kicks;**
+
+      > `e!setlogsban` ou `/setlogsban` - **Define um canal para os Logs de Bans.**
 
 
     - **2.1.2 Moderação de Membros**
