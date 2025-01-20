@@ -231,9 +231,9 @@
 
 - **10.2 Suporte Técnico**
 
-> [FAQ](https://github.com/HunteRiseD/Exatas-Bot/blob/main/FAQ.md)
+> [FAQ](https://github.com/HunteRiseD/Exatas-Bot/blob/main/FAQ.md);
 
-> Documentação online.
+> [Documentação Online](https://github.com/HunteRiseD/Exatas-Bot/blob/main/ONLINE_DOCUMENTATION.md).
 
 
 ---
