@@ -50,4 +50,13 @@
 
 ---
 
-> Atualizado pela última vez em 16 de Janeiro de 2025.
+# 20 de Janeiro de 2025 (2.2):
+
+  - Adicionados novos Comandos de Configurações de Servidor (Logs, Roles, MOD Roles);
+  - Adicionadas novas funções ao marcar o Bot em algum canal de texto;
+  - Melhoria de funcionalidades diversas
+  - Correções de Bugs.
+
+---
+
+> Atualizado pela última vez em 20 de Janeiro de 2025.
