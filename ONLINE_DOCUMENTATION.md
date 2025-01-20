@@ -51,6 +51,12 @@
 
       > `e!listmodroles` ou `/listmodroles` - **Mostra a lista de Cargos Moderadores do Servidor;**
 
+      > `e!addautorole` ou `/addautorole` - **Adiciona um cargo como Auto-Role no Servidor;**
+
+      > `e!removeautorole` ou `/removeautorole` - **Remove um cargo como Auto-Role no Servidor;**
+
+      > `e!listautoroles` ou `/listautoroles` - **Mostra a lista de Auto-Roles do Servidor**
+
       > `e!setlogsmute` ou `/setlogsmute` - **Define um canal para os Logs de Mutes;**
 
       > `e!setlogskick` ou `/setlogskick` - **Define um canal para os Logs de Kicks;**
