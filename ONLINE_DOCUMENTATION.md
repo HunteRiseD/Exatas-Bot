@@ -132,18 +132,7 @@
   > Mensagens de Boas-Vindas personalizadas.
 
 
-- **3.2 Sistema de Moderação:**
-
-  > Filtros de Palavras específicas determinadas com base da necessidade do Servidor;
-
-  > Sistema de Anti-Spamm próprio;
-
-  > Sistema de Auto-MOD próprio;
-
-  > Níveis de punições de acordo com ocorrências.
-
-
-- **3.3 Personalização:**
+- **3.2 Personalização:**
 
   > Embeds personalizadas para cada comando e funções;
 
