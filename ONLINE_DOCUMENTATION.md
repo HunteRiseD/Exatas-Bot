@@ -19,7 +19,7 @@
 
   > Configurações iniciais;
 
-  > Permissões necessárias;
+  > Permissões necessárias.
 
 ---
 
