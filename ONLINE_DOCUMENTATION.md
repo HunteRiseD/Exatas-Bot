@@ -134,7 +134,7 @@
 
 - **3.2 Sistema de Moderação:**
 
-  > Filtros de Palavras específicas determinadas com base da necessidade do Servidor;**
+  > Filtros de Palavras específicas determinadas com base da necessidade do Servidor;
 
   > Sistema de Anti-Spamm próprio;
 
