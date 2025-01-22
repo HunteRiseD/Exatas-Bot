@@ -1,5 +1,5 @@
 # Documentação Online - Exatas Bot
-Última atualização: 20 de Janeiro de 2025
+Última atualização: 22 de Janeiro de 2025
 
 ---
 
@@ -49,19 +49,7 @@
 
       > `e!removemodrole` ou `/removemodrole` - **Remove um cargo da lista de Cargos Moderadores do Servidor;**
 
-      > `e!listmodroles` ou `/listmodroles` - **Mostra a lista de Cargos Moderadores do Servidor;**
-
-      > `e!addautorole` ou `/addautorole` - **Adiciona um cargo como Auto-Role no Servidor;**
-
-      > `e!removeautorole` ou `/removeautorole` - **Remove um cargo como Auto-Role no Servidor;**
-
-      > `e!listautoroles` ou `/listautoroles` - **Mostra a lista de Auto-Roles do Servidor**
-
-      > `e!setlogsmute` ou `/setlogsmute` - **Define um canal para os Logs de Mutes;**
-
-      > `e!setlogskick` ou `/setlogskick` - **Define um canal para os Logs de Kicks;**
-
-      > `e!setlogsban` ou `/setlogsban` - **Define um canal para os Logs de Bans.**
+      > `e!listmodroles` ou `/listmodroles` - **Mostra a lista de Cargos Moderadores do Servidor.**
 
 
     - **2.1.2 Moderação de Membros**
@@ -123,11 +111,27 @@
 
 - **3.1 Configurações Básicas:**
 
-  > Prefixo personalizado para o Bot;
+    - Prefixo personalizado para o Bot;
 
-  > Canal de logs definido com base na necessidade do Servidor;
+      > `e!`
 
-  > Auto-Roles definida com base na necessidade do Servidor;
+    - Canal de logs definido com base na necessidade do Servidor;
+
+      > `e!setlogsmute` ou `/setlogsmute` - **Define um canal para os Logs de Mutes;**
+
+      > `e!setlogskick` ou `/setlogskick` - **Define um canal para os Logs de Kicks;**
+
+      > `e!setlogsban` ou `/setlogsban` - **Define um canal para os Logs de Bans.**
+
+
+    - Auto-Roles definida com base na necessidade do Servidor;
+
+      > `e!addautorole` ou `/addautorole` - **Define um Auto-Role no Servidor;**
+
+      > `e!removeautorole` ou `/removeautorole` - **Remove um Auto-Role no Servidor;**
+
+      > `e!listautoroles` ou `/listautoroles` - **Mostra a lista de Auto-Roles do Servidor.**
+
 
   > Mensagens de Boas-Vindas personalizadas.
 
@@ -284,4 +288,4 @@
 
 ---
 
-> Esta documentação é atualizada regularmente. Última atualização: 20 de Janeiro de 2025
+> Esta documentação é atualizada regularmente. Última atualização: 22 de Janeiro de 2025
